@@ -2,6 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-	printf("Hello World, by Guigui\n");
+	printf("Patrick Ugo et Erwan sont amoureux\n");
+	printf("<3\n");
 	return 0;
 }
