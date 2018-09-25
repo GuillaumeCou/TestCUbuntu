@@ -387,11 +387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\EDEN test\\TestCUbuntu\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
       "projectName": "WeatherApp",
-      "projectPath": "C:\\Users\\User\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\EDEN test\\TestCUbuntu\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\EDEN test\\TestCUbuntu\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

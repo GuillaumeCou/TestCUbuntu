@@ -822,11 +822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\EDEN test\\TestCUbuntu\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
       "projectName": "WeatherApp.Android",
-      "projectPath": "C:\\Users\\User\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\EDEN test\\TestCUbuntu\\WeatherApp\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\EDEN test\\TestCUbuntu\\WeatherApp\\WeatherApp\\WeatherApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -843,8 +843,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
+            "C:\\Users\\User\\Desktop\\EDEN test\\TestCUbuntu\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\EDEN test\\TestCUbuntu\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
             }
           }
         }
