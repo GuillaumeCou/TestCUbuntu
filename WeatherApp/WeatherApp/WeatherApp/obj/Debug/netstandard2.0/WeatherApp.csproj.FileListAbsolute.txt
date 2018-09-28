@@ -7,6 +7,7 @@ C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\Weather
 C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
 C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
 C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
-C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
 C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
+C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
+C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\XamlC.stamp

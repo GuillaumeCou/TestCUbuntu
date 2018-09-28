@@ -56,3 +56,4 @@ C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\Weather
 C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhoneSimulator\Debug\WeatherApp.iOS.csproj.CopyComplete
 C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhoneSimulator\Debug\WeatherApp.iOS.exe
 C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhoneSimulator\Debug\WeatherApp.iOS.pdb
+C:\Users\couzi\Desktop\Nouveau dossier\TestCUbuntu\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhoneSimulator\Debug\WeatherApp.dll.mdb
